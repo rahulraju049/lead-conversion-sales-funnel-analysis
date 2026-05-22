@@ -95,5 +95,3 @@ Created:
 - Automate reporting pipeline
 
 ---
-
-## 📁 Project Structure
