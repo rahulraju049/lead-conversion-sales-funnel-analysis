@@ -87,15 +87,7 @@ Created:
 - Optimize weak campaign strategies.
 - Build predictive models for lead scoring.
 
----
-
-## 📊 Sample Visualizations
-(Add screenshots here after uploading to GitHub)
-
-Example:
-![Dashboard](images/dashboard.png)
-
----
+--
 
 ## 🚀 Future Improvements
 - Build Machine Learning model for lead conversion prediction
